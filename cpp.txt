@@ -1,0 +1,4 @@
+Q-1 write a programme in c to find a second largest....
+Q-2 write a programme to sort an array but sorting should be in 2 modes 
+1-modes First divide in array in 2 parts--
+2-sort in two parts--
