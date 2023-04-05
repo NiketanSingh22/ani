@@ -1,0 +1,7 @@
+For data Science-
+
+1-Learn (Pandas , Numpy)
+2-Learn(Statitics)
+3-Data visuloxation(Metplot,Seaborn)
+4-Machine Leraning.
+5-project.
